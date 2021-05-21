@@ -16,4 +16,4 @@ layout: default
 
 ![](https://www.dibujosfaciles.es/wp-content/uploads/2018/11/64099823-panda-bear-kawaii-cute-animal-little-icon-isolated-and-flat-illustration.jpg)
 
-[Finally we have a cute panda]
+
